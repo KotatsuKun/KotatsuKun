@@ -8,4 +8,4 @@
 
 ## Top Languages
 
-[![Top Langs](https://kotareadme.vercel.app/api/?username=KotatsuKun&layout=donut&langs_count=10&theme=nightowl&border_radius=15.0&border_color=000000)]
+<img align="left" alt="Kotatsu's Github Status" src="https://github-readme-stats-gamma-rust-15.vercel.app/api/top-langs/?username=KotatsuKun&layout=donut&langs_count=10&theme=nightowl&border_radius=15.0&hide_border=true" />
