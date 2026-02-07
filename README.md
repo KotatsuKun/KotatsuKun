@@ -1,8 +1,8 @@
 ### WELCOME FELLAS!
 
 - 👋 Hi, I’m KotatsuKun
-- 👀 I’m interested in Graphics Programming
-- 🌱 I’m currently learning C, Python, Javascript and Java
+- 👀 I’m interested in Graphics Programming and Software Engeneering
+- 🌱 I’m currently learning C++, C, Python, Javascript, Java, OpenGL, Kotlin and C#
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I'm kinda lazy, but I love trying new stuff
 
